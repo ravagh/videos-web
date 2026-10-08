@@ -1,0 +1,1 @@
+loudnorm I=-16 TP=-2 LRA=11 two-pass linear; measured_I=-20.28:measured_TP=-3.07:measured_LRA=2.60:measured_thresh=-30.38:offset=0.67
