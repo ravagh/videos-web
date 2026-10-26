@@ -1,6 +1,6 @@
 # BCG — Banner de cabeçalho 8:1 (3840×480, loop 10 s, 60 fps)
 
-Revisão atual: `BCG-Banner.tsrct` ↔ `BCG-Banner.mp4`. Gerado por `build.py`
+Revisão atual: `BCG-Banner.tsrct` ↔ `BCG-Banner.mp4` (3840×480, 60 fps, 10 s, H.264) e `BCG-Banner-7680x960.mp4` (export "4k" do CLI; a versão 3840×480 é reduzida dela com lanczos).
 (`python3 -I build.py editable.json editable-vN.json` → `tsrct project commit`).
 
 ## Ideia
