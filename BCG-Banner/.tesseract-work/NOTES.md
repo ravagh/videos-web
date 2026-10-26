@@ -1,7 +1,7 @@
 # BCG — Banner de cabeçalho 8:1 (3840×480, loop 10 s, 60 fps)
 
 Revisão atual: `BCG-Banner.tsrct` ↔ `BCG-Banner.mp4` (3840×480, 60 fps, 10 s, H.264) e `BCG-Banner-7680x960.mp4` (export "4k" do CLI; a versão 3840×480 é reduzida dela com lanczos).
-(`python3 -I build.py editable.json editable-vN.json` → `tsrct project commit`).
+Gerado por `build.py` (`python3 -I build.py editable.json editable-vN.json` → `tsrct project commit`).
 
 ## Ideia
 O logo é o centro de energia: a cada "batida" (0,15 s e 5,15 s) ele pulsa em neon azul,
