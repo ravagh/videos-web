@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+# Tesseract export temporaries
+.*.jerboa-video-*
+export-progress.ndjson
